@@ -73,17 +73,4 @@ Commands
  - exit             : Close the program
 ```
 
-## Contributors
-
-Huge thanks to everyone for their contributions to this project.
-
-- [TheKvc](https://github.com/TheKvc) aka Batch-Man (www.batch-man.com)
-- [Ankitamehra93](https://github.com/Ankitamehra93)
-- [lioen-dev](https://github.com/lioen-dev)
-- [akshatbhatter1](https://github.com/akshatbhatter1)
-
-**Special thanks to the [TheBATeam](https://github.com/TheBATeam), and AACINI.**
-
-## More From TechnicalUserX
-
-Check out [TechnicalUserX](https://github.com/technicaluserx) for more projects.
+TOOL OWNER OR CREATED BY : whitedevil-21(Amit Devi)
