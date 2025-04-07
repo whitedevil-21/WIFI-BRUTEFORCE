@@ -1,4 +1,4 @@
-# Batch Wi-Fi Brute Forcer - By TechnicalUserX
+# Batch Wi-Fi BruteForce - By whitedevil-21(Amit Devi)
 An active attack tool against Wi-Fi networks with internal CMD commands.
 
 This program is created to be a proof of concept that it is possible
